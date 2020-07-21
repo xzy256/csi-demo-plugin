@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e3c42e72-6204-405d-a349-b806c8ea82eb" name="demo" url="http://10.145.67.213">
+        <fileTransfer host="10.145.67.213" port="22" rootFolder="/search/odin/golang-workspace/src/csi-demo-driver" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
